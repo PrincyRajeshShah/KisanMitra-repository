@@ -22,7 +22,7 @@ A comprehensive farming dashboard application designed for Indian farmers, provi
 - shadcn/ui components
 - TypeScript
 
-## Backend Technologies (to be implemented)
+## Backend Technologies
 
 - XGBoost Regression for irrigation optimization
 - ARIMA models for weather forecasting
